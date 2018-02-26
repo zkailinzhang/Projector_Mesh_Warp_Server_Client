@@ -1,0 +1,2 @@
+2017:11:13-08:49:24:928 LOG_INFO, Log file opened with logging state: LOG_INFO = true, LOG_WARNING = true, LOG_ERROR = true, LOG_DEBUG = false
+2017:11:13-08:49:24:933 LOG_INFO, File: .\Scene.cpp Function: Scene::Scene Message: Constructor
