@@ -1,0 +1,1 @@
+2018:01:08-04:04:49:615 Logger::LoadLoggingSetup, Couldn´t find the LoggingSetup.ini file in the working directory = No logging.
