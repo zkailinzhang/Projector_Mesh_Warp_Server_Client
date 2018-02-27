@@ -1,7 +1,0 @@
-#projector channel numbers
-2
-#projector resolution
-1000 
-500
-#projector address,increase successively
-CI0000-0000-0000-0060
